@@ -6,7 +6,9 @@ The goal is to classify individuals based on input features using a supervised l
 
 ## Data Preprocessing
 * Data cleaning and preparation
-* Feature selection
+* The dataset is balanced, ensuring equal representation between classes
+* No missing values were found
+* No outliers were identified
 * Train/test split
 * Feature scaling using normalization/standardization
 
